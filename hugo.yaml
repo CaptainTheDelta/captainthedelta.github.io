@@ -1,0 +1,4 @@
+baseURL: https://bouffre.fr
+languageCode: fr-fr
+title: Bouffre !
+theme: ["PaperMod"]
