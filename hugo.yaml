@@ -2,3 +2,12 @@ baseURL: https://bouffre.fr
 languageCode: fr-fr
 title: Bouffre !
 theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: "PaperMod's Demo"
+    Content: >
+      Bienvenue sur mon blog !
+
+      Les articles suivants ne sont pas des guides. Ce sont plutôt des prises de notes augmentées de mes aventures informatiques, ou bien ce que j'aurais bien aimé lire avant de me lancer dans tel ou tel domaine.
+      Vous voilà prévenus !
